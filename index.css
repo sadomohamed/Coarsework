@@ -1,9 +1,33 @@
 body{
-  background-color: red 
+  background-image: url(https://www.xmple.com/wallpaper/red-purple-gradient-linear-1920x1080-c2-b22222-6a5acd-a-15-f-14.svg) 
 }
 .center {
     display: block;
     margin-left: auto;
     margin-right: auto;
     width: 50%;
+}
+#welcome {
+  border: 1px solid ;
+  background-color: pink;
+  border-radius: 25px;
+  background-position: left top;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 20px; 
+  width: 399px;
+  height: 200px;
+  padding: 8px;
+}
+
+.center {
+  text-align: center;
+  text-transform: uppercase;
+  color: #4CAF50;
+}
+
+p {
+  letter-spacing: 3px;
+   font-family: 'Great Vibes', cursive;
 }
